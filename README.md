@@ -22,8 +22,11 @@
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomd22&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=thiagomd22&theme=dark&hide_border=false)<br/>
+
+<div align="start" style="margin-bottom:100px">
+  <img width=35% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomd22&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img width=49% align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=thiagomd22&theme=dark&hide_border=false" />
+</div>
 
 ### ✍️ Frase do Dia:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

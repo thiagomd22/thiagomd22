@@ -11,13 +11,16 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=" alt="Instagram"/></a>
 
 # 💻 My Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,react,ts,nodejs,angular)](https://skillicons.dev)
-
-## 🛠️Ferramentas de desenvolvimento
-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,discord,stackoverflow,vercel" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,react,ts,nodejs,angular,express,nextjs,nestjs,vue,mysql,mongodb,jest,styledcomponents" />
+  </a>
+</p>
+
+## 🛠️Ferramentas de desenvolvimento
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,discord,stackoverflow,vercel,postman" />
   </a>
 </p>
 
